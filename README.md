@@ -452,10 +452,4 @@ Node 0           Node 1          Node 2
 - **Primary/Secondary**: CP (Consistency + Partition tolerance)
 - **Master-less**: AP (Availability + Partition tolerance)
 
-## License
 
-MIT
-
-## Author
-
-Built as a comprehensive educational project in Python from first principles.
